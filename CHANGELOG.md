@@ -1,6 +1,6 @@
 ## [`master`](https://github.com/elastic/eui/tree/master)
 
-No public interface changes since `4.1.0`.
+- Added table footer support with `EuiTableFooter` and `EuiTableFooterCell` ([#1202](https://github.com/elastic/eui/pull/1202))
 
 ## [`4.1.0`](https://github.com/elastic/eui/tree/v4.1.0)
 
